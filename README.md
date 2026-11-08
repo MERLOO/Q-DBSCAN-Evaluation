@@ -175,7 +175,7 @@ Tous les paramètres sont regroupés dans la cellule de configuration (section 1
 - Havlíček *et al.*, *Supervised learning with quantum-enhanced feature spaces*, Nature 567, 2019.
 - Ester *et al.*, *A density-based algorithm for discovering clusters in large spatial databases with noise* (DBSCAN), KDD 1996.
 - Nadeau & Bengio, *Inference for the generalization error*, Machine Learning 52, 2003.
-- Xuming Xie, Longzhen Duaa, Taorong Qiu & Junru Li, *Quantum algorithm for MMNG‑based DBSCAN*
+- Xuming Xie, Longzhen Duaa, Taorong Qiu & Junru Li, *Quantum algorithm for MMNG‑based DBSCAN*,2021.
 - Kaggle, *APTOS 2019 Blindness Detection*.
 
 ## Licence
